@@ -1,0 +1,10 @@
+Epoch 1/5
+Validation F1 Score: 0.41962174940898345
+Epoch 2/5
+Validation F1 Score: 0.41962174940898345
+Epoch 3/5
+Validation F1 Score: 0.41962174940898345
+Epoch 4/5
+Validation F1 Score: 0.41962174940898345
+Epoch 5/5
+Validation F1 Score: 0.41962174940898345
